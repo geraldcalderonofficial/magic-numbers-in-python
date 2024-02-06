@@ -12,7 +12,7 @@ def ask_user_and_check_number():
         
 
 def run_program_x_times(chances):
-    #Missing code - can be provided upon request.
+    #missing code - can be provided upon request.
         
 user_attempts = int(input("Enter the number of attempts: "))
 run_program_x_times(user_attempts)    
